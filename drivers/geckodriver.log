@@ -1,0 +1,29 @@
+1616153957076	geckodriver	INFO	Listening on 127.0.0.1:59426
+1616153968583	geckodriver	INFO	Listening on 127.0.0.1:59436
+1616154034870	geckodriver	INFO	Listening on 127.0.0.1:59453
+1616155621333	geckodriver	INFO	Listening on 127.0.0.1:59719
+1616155699146	geckodriver	INFO	Listening on 127.0.0.1:59731
+1616155812478	geckodriver	INFO	Listening on 127.0.0.1:59748
+1616156544318	geckodriver	INFO	Listening on 127.0.0.1:59825
+1616157295441	geckodriver	INFO	Listening on 127.0.0.1:59918
+1616157342914	geckodriver	INFO	Listening on 127.0.0.1:59962
+1616157492167	geckodriver	INFO	Listening on 127.0.0.1:59999
+1616395816164	geckodriver	INFO	Listening on 127.0.0.1:65426
+1616395819275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANA~1.HAM\\AppData\\Local\\Temp\\rust_mozprofileHlV6P5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616395823770	Marionette	INFO	Listening on port 65434
+1616395824130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616395930187	Marionette	INFO	Stopped listening on port 65434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANA~1.HAM\\AppData\\Local\\Temp\\rust_mozprofileH3w5vf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616395907418	Marionette	INFO	Listening on port 49194
+1616395907911	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616396530799	Marionette	INFO	Stopped listening on port 49194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
